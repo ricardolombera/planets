@@ -3,4 +3,5 @@ Docked to International space station and ready for a sling to mars
 Approaching mars orbit
 Ready to touchdown on mars
 make small changes to checked
+Working on some GitHub
 Currently coding from mars
