@@ -5,3 +5,6 @@ Ready to touchdown on mars
 make small changes to checked
 Working on some GitHub
 Currently coding from mars
+
+make note to see how it works
+add from rstudio
